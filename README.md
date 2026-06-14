@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-vals-de-la-despedida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for El vals de la despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-vals-de-la-despedida/) |
+| **Get License** | [Secure Licensing Rights for El vals de la despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-vals-de-la-despedida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando lento, luces de neón en la pared
+> Esta noche es de locura, mami, calma mi sed
+> Tu mirada me dice que vamos a pecar
+> Un vals de la despedida antes de escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
